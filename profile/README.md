@@ -39,13 +39,13 @@ Criar soluções tecnológicas e inovadoras para os desafios propostos pela Bosc
 Cada participante colaborará em diferentes partes do projeto, garantindo uma divisão equilibrada de tarefas e foco em inovação.
 
 Murilo Firmo: BackEnd e IAs
---
+
 Murilo Zanetti: BackEnd e Banco de dados
---
+
 Maria Nascimento: FrontEnd e Design
---
+
 Gabriel Domingues: FrontEnd e desenhos na mesa digitalizadora
---
+
 Guilherme Oliveira: BackEnd
 
 ---
